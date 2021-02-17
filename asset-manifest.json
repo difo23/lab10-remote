@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lab10-remote/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lab10-remote/static/js/main.6c2dc38e.chunk.js",
+    "main.js.map": "/lab10-remote/static/js/main.6c2dc38e.chunk.js.map",
+    "runtime-main.js": "/lab10-remote/static/js/runtime-main.a1c50ed4.js",
+    "runtime-main.js.map": "/lab10-remote/static/js/runtime-main.a1c50ed4.js.map",
+    "static/js/2.199685d3.chunk.js": "/lab10-remote/static/js/2.199685d3.chunk.js",
+    "static/js/2.199685d3.chunk.js.map": "/lab10-remote/static/js/2.199685d3.chunk.js.map",
+    "static/js/3.430fa60e.chunk.js": "/lab10-remote/static/js/3.430fa60e.chunk.js",
+    "static/js/3.430fa60e.chunk.js.map": "/lab10-remote/static/js/3.430fa60e.chunk.js.map",
+    "index.html": "/lab10-remote/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lab10-remote/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.199685d3.chunk.js.LICENSE.txt": "/lab10-remote/static/js/2.199685d3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/lab10-remote/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1c50ed4.js",
+    "static/js/2.199685d3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6c2dc38e.chunk.js"
+  ]
+}
